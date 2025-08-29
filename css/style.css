@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif, "Inter";
+}
+.navbar-brand img {
+    width:  40px;
+    margin-right: 8px;
+}
+.hero-section {
+    padding: 80px 0;
+    background-color: #f8f9fa;
+}
+.hero-title {
+    font-size: 2.8rem;
+    font-weight: bold;
+}
+.hero-title span {
+     color: #d99a00;  /* Warna kuning emas */
+}
+.hero-text {
+    font-size: 1rem;
+    margin: 20px 0;
+    color: #555;
+}
+.btn-dark {
+    margin-left: 10px;
+}
+.hero-image {
+    max-width: 100%;
+    height: auto;
+}
+.material-icons {
+    vertical-align: middle;
+    font-size: 18px;
+}
+#tentang {
+  background: linear-gradient(to bottom right, #fff 0%, #e5a000 100%);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.custom-quote {
+  border-left: 6px solid #fbbf24; /* kuning */
+  padding-left: 15px;
+  margin-bottom: 20px;
+}

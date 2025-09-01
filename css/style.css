@@ -25,7 +25,7 @@ body {
     margin-left: 10px;
 }
 .hero-image {
-    max-width: 100%;
+    max-width: 50%;
     height: auto;
 }
 .material-icons {

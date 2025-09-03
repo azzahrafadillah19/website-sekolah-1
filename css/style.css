@@ -47,7 +47,7 @@ body {
 }
 
 .footer {
-  background-image: url("../img/rhombus-grid2.svg"); /* ganti dengan path gambar kamu */
+  background-image: url("../img/rhombus-grid.svg"); /* ganti dengan path gambar kamu */
   background-repeat: no-repeat; /* biar tidak berulang */
   background-position: right bottom; /* posisikan di kanan bawah */
   background-size: contain; /* sesuaikan ukuran agar tidak kepotong */
